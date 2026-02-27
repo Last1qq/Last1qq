@@ -1,6 +1,10 @@
 
 <img width="1472" height="720" alt="Gemini_Generated_Image_n6su3nn6su3nn6su" src="https://github.com/user-attachments/assets/8eabcd88-a95c-4e46-a33b-26b1522b8cb8" />
-
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/java script-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
 
 <!--
 **Last1qq/Last1qq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
