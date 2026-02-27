@@ -1,4 +1,6 @@
-<img width="1456" height="720" alt="Gemini_Generated_Image_mknzxpmknzxpmknz" src="https://github.com/user-attachments/assets/2d82c78c-cd93-49c0-91f8-e36795560369" />
+
+<img width="1472" height="720" alt="Gemini_Generated_Image_n6su3nn6su3nn6su" src="https://github.com/user-attachments/assets/8eabcd88-a95c-4e46-a33b-26b1522b8cb8" />
+
 
 <!--
 **Last1qq/Last1qq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
