@@ -1,4 +1,6 @@
-https://capsule-render.vercel.app/api?type=rounded&height=200&color=gradient&text=Welcome## Hi there 👋
+<p align="center"
+> <img src="https://capsule-render.vercel.app/api?text=Hey Everybody!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 
 <!--
 **Last1qq/Last1qq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
