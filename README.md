@@ -6,6 +6,8 @@
   <img src="https://img.shields.io/badge/java script-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
+![Visitors](https://komarev.com/ghpvc/?username=Last1qq&color=blue&style=flat-square&label=PROFILE+VIEWS)
+
 <!--
 **Last1qq/Last1qq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 https://capsule-render.vercel.app/api?type=rounded&height=200&color=gradient&text=Welcome
