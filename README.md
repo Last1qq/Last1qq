@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:2c3e50,100:000000&height=300&section=header&text=Web%20Developer&fontSize=70&animation=twinkle&fontColor=ffffff)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:2c3e50,100:000000&height=320&section=header&text=Web%20Developer&fontSize=70&desc=HTML%20/%20CSS%20/%20JavaScript&descSize=25&descAlignY=65&animation=twinkle&fontColor=ffffff)
 <!--
 **Last1qq/Last1qq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 https://capsule-render.vercel.app/api?type=rounded&height=200&color=gradient&text=Welcome
