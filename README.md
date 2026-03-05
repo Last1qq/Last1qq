@@ -1,14 +1,5 @@
 
-<style>
-  .banner {
-    transition: 250ms;
-  }
-  .banner:hover {
-    transform: scale(0.95);
-  }
-</style>
-
-<img class="banner" width="1472" height="720" alt="Gemini_Generated_Image_n6su3nn6su3nn6su" src="https://github.com/user-attachments/assets/8eabcd88-a95c-4e46-a33b-26b1522b8cb8" />
+<img width="1472" height="720" alt="Gemini_Generated_Image_n6su3nn6su3nn6su" src="https://github.com/user-attachments/assets/8eabcd88-a95c-4e46-a33b-26b1522b8cb8" />
 <p align="center">
   
 </p>
