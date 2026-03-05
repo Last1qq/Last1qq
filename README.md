@@ -1,5 +1,5 @@
 
-<img width="1472" height="720" alt="Gemini_Generated_Image_n6su3nn6su3nn6su" src="https://github.com/user-attachments/assets/8eabcd88-a95c-4e46-a33b-26b1522b8cb8" />
+<img class="banner" width="1472" height="720" alt="Gemini_Generated_Image_n6su3nn6su3nn6su" src="https://github.com/user-attachments/assets/8eabcd88-a95c-4e46-a33b-26b1522b8cb8" />
 <p align="center">
   
 </p>
@@ -8,6 +8,15 @@
   <img src="https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 </p>
+
+<style>
+  .banner {
+    transition: 250ms;
+  }
+  .banner:hover {
+    transform: scale(0.95);
+  }
+</style>
 
 <!--
 **Last1qq/Last1qq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
